@@ -1,9 +1,5 @@
 function Home(){
-    return <h1>O sucesso nasce do querer, 
-        da determinação e persistência em se 
-        chegar a um objetivo. Mesmo não atingindo o alvo, 
-        quem busca e vence obstáculos, no mínimo fará coisas 
-        admiráveis.</h1>
+    return <h1>Quando nada parece dar certo, vou ver o cortador de pedras martelando sua rocha talvez 100 vezes, sem que uma única rachadura apareça. Mas na centésima primeira martelada a pedra se abre em duas, e eu sei que não foi aquela que conseguiu isso, mas todas as que vieram antes.</h1>
 }
 
 export default Home;
